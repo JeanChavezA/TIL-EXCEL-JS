@@ -5,3 +5,6 @@
 * https://www.youtube.com/watch?v=ohgwGMlAY8M
 * https://www.w3schools.com/typescript/index.php
 * https://www.codecademy.com/courses/learn-typescript/lessons/introduction-to-typescript/exercises/from-javascript-to-typescript
+* https://www.youtube.com/watch?v=h33Srr5J9nY
+* https://www.youtube.com/watch?v=DHvZLI7Db8E
+* https://www.youtube.com/watch?v=V_Kr9OSfDeU
